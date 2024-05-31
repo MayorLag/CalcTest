@@ -1,5 +1,5 @@
 import math
-#test im losing my mind still
+#test now update
 
 #These functions define operations
 def add(input1, input2):
